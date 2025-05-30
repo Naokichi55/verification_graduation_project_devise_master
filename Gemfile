@@ -58,7 +58,7 @@ end
 
 # tailwindcssを追加 v3.4.17
 gem "tailwindcss-rails"
-gem "tailwindcss-ruby", "3.4.17"
+gem "tailwindcss-ruby", "4.1.8"
 
 # deviseを追加
 gem 'devise'
